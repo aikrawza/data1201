@@ -1,2 +1,2 @@
-# data1201
-A repository for DATA 1201 materials.
+# Data 1201 - Explorations in Data Science
+<h3 align="center">Author - Alex Krawza</h3>
