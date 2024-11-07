@@ -6,4 +6,4 @@ I would sort the year column in the same manner as above, then the month column,
 
 # Question 2
 1) What is the major benefit of reconcliation? What did it do?
-Reconciliation matches your data against external sources. It linked the scientific names to a page with information about the animal with the scientific name.
+Reconciliation matches your data against external sources, allowing for consistant comparison with other data sets that also reconsiled with the same dataset. It linked the scientific names to a page with information about the animal with the scientific name.
